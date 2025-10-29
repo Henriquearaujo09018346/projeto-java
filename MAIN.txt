@@ -1,0 +1,6 @@
+public class main (
+public satatic void 
+            main (string [] args){
+
+}
+)
